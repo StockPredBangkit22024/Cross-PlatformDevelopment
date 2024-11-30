@@ -1,12 +1,3 @@
-# StockPred Cross Platform Development Repository
-
-<img src="https://github.com/StockPredBangkit22024/asset/raw/b5c007b08d1624c2243d2e34257d0e8b33377da1/Cross-Platform%20Development.png" alt="Cross-Platform Development" width="800">
-
-StockPred is a cutting-edge stock prediction tool that utilizes AI to predict stock prices based on macroeconomic factors.
-
-## Built for Bangkit 2024 Batch 2 Capstone Project
-This initiative is part of the capstone project for the Bangkit 2024 Batch 2 program.
-
 # StockPred  Cross-Platform Development Repository
 
 <img src="https://github.com/StockPredBangkit22024/asset/raw/b5c007b08d1624c2243d2e34257d0e8b33377da1/Cross-Platform%20Development.png" alt="Cross-Platform Development" width="800">
@@ -27,7 +18,6 @@ This project was developed as part of the **Bangkit 2024 Batch 2 Capstone Projec
 
 1. **Accurate Predictions**: Uses DNN to predict stock prices based on economic indicators.
 2. **Responsive Design**: The application supports multiple platforms, including **Windows**.
-3. **Data Management**: Integrated system to display real-time economic data.
 4. **Modern UI/UX**: Built with Flutter for a clean and user-friendly interface.
 
 ---
@@ -40,6 +30,10 @@ This project was developed as part of the **Bangkit 2024 Batch 2 Capstone Projec
 - **Dart**: Primary programming language for Flutter development.
 
 ---
+
+## 📂 Directory Structure
+StockPred/ ├── android/ # Android platform-specific files ├── assets/ # Static resources (images, logos, etc.) ├── ios/ # iOS platform-specific files ├── lib/ # Main application source code ├── linux/ # Linux platform-specific files ├── macos/ # macOS platform-specific files ├── test/ # Unit tests ├── web/ # Web platform-specific files ├── windows/ # Windows platform-specific files ├── .gitignore # Git ignored files ├── analysis_options.yaml # Code analysis settings ├── pubspec.yaml # Project configuration ├── pubspec.lock # Dependency lock file └── README.md # Project documentation
+
 
 ## 📦 Installation
 
