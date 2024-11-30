@@ -7,11 +7,9 @@ StockPred is a cutting-edge stock prediction tool that utilizes AI to predict st
 ## Built for Bangkit 2024 Batch 2 Capstone Project
 This initiative is part of the capstone project for the Bangkit 2024 Batch 2 program.
 
+# StockPred  Cross-Platform Development Repository
 
-```markdown
-# StockPred - Cross-Platform Development Repository
-
-![StockPred Logo](./path-to-logo.png)
+<img src="https://github.com/StockPredBangkit22024/asset/raw/b5c007b08d1624c2243d2e34257d0e8b33377da1/Cross-Platform%20Development.png" alt="Cross-Platform Development" width="800">
 
 ## 📖 Description
 
@@ -58,60 +56,4 @@ Follow these steps to run the **StockPred** application on **Windows**:
 ```bash
 git clone https://github.com/username/StockPred.git
 cd StockPred
-```
 
-### 3. Install Dependencies
-```bash
-flutter pub get
-```
-
-### 4. Run the Application
-```bash
-flutter run -d windows
-```
-
----
-
-## 📂 Directory Structure
-
-```
-StockPred/
-├── lib/                # Main application source code
-├── assets/             # Images and static resources
-├── test/               # Unit tests
-├── pubspec.yaml        # Project configuration file
-└── README.md           # Project documentation
-```
-
----
-
-## 🤝 Contribution
-
-We welcome contributions from anyone interested in supporting the development of **StockPred**. Follow these steps to contribute:
-
-1. Fork this repository.
-2. Create a new feature branch (`git checkout -b feature/new-feature`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature/new-feature`).
-5. Submit a Pull Request.
-
----
-
-## 📧 Contact
-
-For further inquiries or suggestions, reach out to the development team:
-
-- **Muhammad Rakha Almasah**  
-  - Email: muh.rakha.al@gmail.com
-  - Dicoding ID: muhrakhaal
-
----
-
-## 🌟 Acknowledgments
-
-This project is part of the **Bangkit 2024** initiative, supported by **Kampus Merdeka**. We are grateful for the guidance and support from mentors and team members.
-
----
-``` 
-
-Simply copy and paste this into your `README.md` file. Let me know if you need further assistance! 😊
