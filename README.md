@@ -41,7 +41,7 @@ StockPred is a cutting-edge stock prediction tool that leverages AI to predict s
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/StockPred.git
+git clone https://github.com/StockPredBangkit22024/Cross-PlatformDevelopment.git
 cd StockPred
 
 ```
