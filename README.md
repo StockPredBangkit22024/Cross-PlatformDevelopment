@@ -10,9 +10,6 @@ StockPred is a cutting-edge stock prediction tool that leverages AI to predict s
 - [Installation](#installation)
 - [Project Structure](#project-structure)
 - [How to Run](#how-to-run)
-- [Built With](#built-with)
-- [Contributors](#contributors)
-- [License](#license)
 
 ---
 
@@ -110,15 +107,4 @@ StockPred/
    ```bash
    flutter serve
    ```
-
----
-
-## Built With
-
-- **[Flutter](https://flutter.dev/)**: Cross-platform framework for UI development.
-- **[TensorFlow](https://www.tensorflow.org/)**: For AI-based stock predictions.
-- **[Dart](https://dart.dev/)**: Programming language for Flutter.
-
----
-
 
