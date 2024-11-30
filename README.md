@@ -2,13 +2,6 @@
 
 <img src="https://github.com/StockPredBangkit22024/asset/raw/b5c007b08d1624c2243d2e34257d0e8b33377da1/Cross-Platform%20Development.png" alt="Cross-Platform Development" width="800">
 
-Berikut adalah isi file **README.md** yang sudah dirancang dengan baik untuk proyek Anda. Silakan salin dan tempelkan ke dalam file `README.md` di proyek Anda.  
-
-```markdown
-# StockPred: Cross-Platform Stock Prediction Application
-
-![StockPred Banner](assets/logo.png)
-
 StockPred is a cutting-edge stock prediction tool that leverages AI to predict stock prices based on macroeconomic factors. This application is built using the Flutter framework, enabling seamless cross-platform deployment on Android, iOS, Windows, Linux, macOS, and the Web.
 
 ## Table of Contents
@@ -50,6 +43,7 @@ StockPred is a cutting-edge stock prediction tool that leverages AI to predict s
 ```bash
 git clone https://github.com/your-username/StockPred.git
 cd StockPred
+
 ```
 
 ### Install Dependencies
@@ -127,30 +121,4 @@ StockPred/
 
 ---
 
-## Contributors
-
-- **Muhammad Rakha Almasah** - [GitHub Profile](https://github.com/your-username)
-- Bangkit 2024 Batch 2 Team
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments
-
-- **Bangkit Program 2024**: For providing the learning opportunity and support.
-- **Flutter Community**: For the resources and guidance.
-- **TensorFlow**: For enabling AI-powered predictions.
-```
-
-### Catatan:
-- Ganti `your-username` dengan username GitHub Anda.
-- Pastikan Anda memiliki file logo atau gambar di folder `assets/` dengan nama `logo.png` (atau ubah nama sesuai kebutuhan).
-- Sertakan file `LICENSE` jika proyek Anda menggunakan lisensi tertentu.
-
-Jika ada perubahan lain yang Anda butuhkan, beri tahu saya! 😊
 
