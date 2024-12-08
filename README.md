@@ -108,3 +108,6 @@ StockPred/
    flutter serve
    ```
 
+# Authors
+- Muhammad Rakha Almasah - Machine Learning - [rakhaalmasah](https://github.com/rakhaalmasah)
+
